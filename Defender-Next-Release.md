@@ -2,4 +2,4 @@
 
 [X] changed the creation rate for the cannon from 0.4 to 0.25.
 
-[ ] changed the winner score pop up from 5 to 10.
+[X] changed the winner score pop up from 5 to 25.
